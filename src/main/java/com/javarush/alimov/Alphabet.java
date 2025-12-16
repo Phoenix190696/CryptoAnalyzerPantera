@@ -1,5 +1,4 @@
 package com.javarush.alimov;
-
 import java.util.HashMap;
 import java.util.Map;
 /**

@@ -1,10 +1,9 @@
-package com.javarush.alimov; // Объявляем пакет, в котором находится класс Analyze
-
-import java.io.*; // Импортируем классы для работы с файлами (Reader, Writer, исключения и т.д.)
-import java.nio.file.Files; // Импортируем класс Files для проверки существования файла
-import java.nio.file.Path;  // Импортируем класс Path для работы с путями
-import java.util.HashMap;   // Импортируем HashMap для хранения частот
-import java.util.Map;       // Импортируем интерфейс Map
+package com.javarush.alimov;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Класс {@code Analyze} реализует метод статистического анализа для взлома шифра.
