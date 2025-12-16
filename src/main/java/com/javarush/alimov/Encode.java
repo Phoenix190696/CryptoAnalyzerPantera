@@ -54,7 +54,6 @@ public class Encode {
                 }
                 writer.write(symbol); // Записываем символ (изменённый или исходный) в файл назначения
             }
-
             System.out.println("Шифровка завершена"); // Сообщаем пользователю, что процесс завершён
         }
         catch (FileNotFoundException e){ // Обработка ошибки: файл не найден

@@ -58,7 +58,6 @@ public class Decode {
                 }
                 writer.write(symbol); // Записываем символ (изменённый или исходный) в файл назначения
             }
-
             System.out.println("Расшифровка завершена"); // Сообщаем пользователю, что процесс завершён
         } catch (FileNotFoundException e) { // Обработка ошибки: файл не найден
             System.out.println("Ошибка: файл не найден");

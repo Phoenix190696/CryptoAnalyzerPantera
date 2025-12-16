@@ -4,7 +4,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.HashMap;
 import java.util.Map;
-
 /**
  * Класс {@code Analyze} реализует метод статистического анализа для взлома шифра.
  * <p>

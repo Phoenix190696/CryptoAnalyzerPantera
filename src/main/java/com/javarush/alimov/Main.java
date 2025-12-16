@@ -1,6 +1,5 @@
 package com.javarush.alimov;
 import java.util.Scanner;
-
 /**
  * Главный класс {@code Main} является точкой входа в программу.
  * <p>

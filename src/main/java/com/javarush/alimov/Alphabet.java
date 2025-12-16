@@ -21,7 +21,7 @@ import java.util.Map;
  * char c = Alphabet.chars[(idx + 3) % Alphabet.size]; // Сдвинуть символ на 3 позиции
  * }</pre>
  */
-public class Alphabet { // Объявляем публичный класс Alphabet
+public class Alphabet {
 
     // Строка, содержащая все буквы русского алфавита (включая Ё) в нижнем и верхнем регистре
     public static final String rusAlphabet = "абвгдеёжзийклмнопрстуфцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФЦЧШЩЪЫЬЭЮЯ";
